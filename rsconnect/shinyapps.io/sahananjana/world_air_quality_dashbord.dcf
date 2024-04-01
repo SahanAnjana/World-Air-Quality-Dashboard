@@ -1,0 +1,12 @@
+name: world_air_quality_dashbord
+title: world_air_quality_dashbord
+username: sahananjana
+account: sahananjana
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11631900
+bundleId: 8440931
+url: https://sahananjana.shinyapps.io/world_air_quality_dashbord/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

@@ -5,7 +5,7 @@ account: sahananjana
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 11631900
-bundleId: 8440931
+bundleId: 8441204
 url: https://sahananjana.shinyapps.io/world_air_quality_dashbord/
 version: 1
 asMultiple: FALSE

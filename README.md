@@ -11,3 +11,5 @@ Dynamic selection of countries and pollutants to explore specific data subsets. 
 Histogram plots showcasing the distribution of pollutant values. <br/>
 Time series plots illustrating pollutant trends over time. <br/>
 Seamless integration with leaflet, ggplot2, and other R packages for data visualization. <br/># World-Air-Quality-Dashboard
+
+Access the dashboard from here: https://sahananjana.shinyapps.io/world_air_quality_dashbord/
